@@ -51,7 +51,7 @@ import javax.swing.*;
 
 public class ClientProxy extends BaseProxy {
     
-    public static String ROOT = ".";
+    public static String ROOT = "./MCEF";
     public static boolean VIRTUAL = false;
     
     private CefApp cefApp;
